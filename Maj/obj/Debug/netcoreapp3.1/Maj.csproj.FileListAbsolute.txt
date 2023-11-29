@@ -1,0 +1,14 @@
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.AssemblyInfoInputs.cache
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.AssemblyInfo.cs
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\Maj\Maj\bin\Debug\netcoreapp3.1\Maj.exe
+C:\Users\fouka\source\repos\Maj\Maj\bin\Debug\netcoreapp3.1\Maj.deps.json
+C:\Users\fouka\source\repos\Maj\Maj\bin\Debug\netcoreapp3.1\Maj.runtimeconfig.json
+C:\Users\fouka\source\repos\Maj\Maj\bin\Debug\netcoreapp3.1\Maj.runtimeconfig.dev.json
+C:\Users\fouka\source\repos\Maj\Maj\bin\Debug\netcoreapp3.1\Maj.dll
+C:\Users\fouka\source\repos\Maj\Maj\bin\Debug\netcoreapp3.1\Maj.pdb
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.dll
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.pdb
+C:\Users\fouka\source\repos\Maj\Maj\obj\Debug\netcoreapp3.1\Maj.genruntimeconfig.cache
